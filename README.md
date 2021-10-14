@@ -1,4 +1,4 @@
-### Hi there 👋 I am Miro
+### Hi there 👋 I am Miro 👱‍♂️
 
 <!--
 **MiroslavGannoha/MiroslavGannoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
